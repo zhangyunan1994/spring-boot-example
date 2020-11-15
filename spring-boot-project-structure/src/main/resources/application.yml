@@ -3,3 +3,15 @@ spring:
     name: spring-boot-project-structure
   profiles:
     active: dev
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+
+info:
+  version: 0.0.1
+  description: 项目搭建版本
+management:
+  info:
+    git:
+      mode: full
