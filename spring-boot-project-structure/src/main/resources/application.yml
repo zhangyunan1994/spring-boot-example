@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-boot-project-structure
+  profiles:
+    active: dev
