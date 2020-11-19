@@ -16,6 +16,7 @@
     <module>spring-boot-project-structure</module>
     <module>spring-boot-mybatis</module>
     <module>spring-boot-mybatis-dynamic-sql</module>
+    <module>spring-boot-jpa</module>
   </modules>
 
 </project>
