@@ -8,6 +8,10 @@ spring boot 项目示例
 :---|:---
 spring-boot-project-structure | 常见项目结构
 spring-boot-mybatis | spring boot 和 mybatis 整合使用
+spring-boot-mybatis-dynamic-sql | spring boot 和 mybatis dynamic sql 整合使用
+spring-boot-jpa | spring boot 和 jpa 整合使用
+spring-boot-data-redis | spring boot 和 redis 整合使用
+spring-boot-mvc | spring boot 和 spring mvc 整合使用
 
 ### Reference Documentation
 
