@@ -17,6 +17,7 @@
     <module>spring-boot-mybatis</module>
     <module>spring-boot-mybatis-dynamic-sql</module>
     <module>spring-boot-jpa</module>
+    <module>spring-boot-shardingsphere-jdbc</module>
     <module>spring-boot-data-redis</module>
     <module>spring-boot-mvc</module>
   </modules>
